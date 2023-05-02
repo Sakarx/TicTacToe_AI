@@ -2,7 +2,7 @@
 //  TicTacToeApp.swift
 //  TicTacToe
 //
-//  Created by Sarthak Shrivastava on 08/04/23.
+//  Created by Sakar Pathak on 05/02/2023.
 //
 
 import SwiftUI
